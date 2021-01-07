@@ -1,3 +1,4 @@
 pub fn main() {
-    println!("{}", rec::run());
+    println!("{}\n", "Running...");
+    rec::run();
 }
